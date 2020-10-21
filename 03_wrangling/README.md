@@ -27,7 +27,7 @@
 
 **03_05_dataviz_best_practices**
 - [Video](https://youtu.be/fLJnACb5Q_M)
-- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/03_wrangling/03_04_dataviz_best_practices.pdf)
+- [Slides](https://github.com/COGS108/Lectures-Fa20/blob/master/03_wrangling/03_05_dataviz_best_practices.pdf)
 
 
 
